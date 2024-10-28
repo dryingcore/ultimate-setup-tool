@@ -1,0 +1,17 @@
+{
+	"name": "setup",
+	"version": "1.0.0",
+	"main": "setup.js",
+	"type": "module",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"@inquirer/prompts": "^7.0.1",
+		"inquirer": "^12.0.1"
+	}
+}
